@@ -1,0 +1,604 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 172 K-images (2 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00371.jpg: Predicted in 1752.198000 milli-seconds.
+prohibitory: 100%	(left_x:  315   top_y:  521   width:   61   height:   57)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00233.jpg: Predicted in 572.648000 milli-seconds.
+mandatory: 99%	(left_x:  326   top_y:  481   width:   31   height:   41)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00032.jpg: Predicted in 572.288000 milli-seconds.
+other: 99%	(left_x:  676   top_y:  442   width:   35   height:   28)
+mandatory: 78%	(left_x:  686   top_y:  467   width:   19   height:   25)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00756.jpg: Predicted in 572.301000 milli-seconds.
+other: 100%	(left_x:  881   top_y:  524   width:   48   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00776.jpg: Predicted in 568.938000 milli-seconds.
+prohibitory: 97%	(left_x:  867   top_y:  507   width:   21   height:   25)
+other: 95%	(left_x: 1089   top_y:  326   width:   86   height:   89)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00855.jpg: Predicted in 570.361000 milli-seconds.
+other: 100%	(left_x:  916   top_y:  410   width:   34   height:   30)
+danger: 97%	(left_x: 1142   top_y:  280   width:  121   height:  109)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00149.jpg: Predicted in 571.054000 milli-seconds.
+other: 95%	(left_x:  705   top_y:  461   width:   22   height:   21)
+other: 99%	(left_x: 1108   top_y:  144   width:  120   height:  142)
+prohibitory: 100%	(left_x: 1134   top_y:  271   width:   85   height:   89)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00725.jpg: Predicted in 572.329000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00613.jpg: Predicted in 570.483000 milli-seconds.
+prohibitory: 98%	(left_x:  480   top_y:  547   width:   32   height:   36)
+prohibitory: 99%	(left_x: 1133   top_y:  562   width:   32   height:   34)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00068.jpg: Predicted in 573.776000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00224.jpg: Predicted in 570.477000 milli-seconds.
+prohibitory: 99%	(left_x:  921   top_y:  274   width:   58   height:   65)
+danger: 99%	(left_x:  935   top_y:  186   width:   85   height:   87)
+prohibitory: 100%	(left_x:  976   top_y:  272   width:   70   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00315.jpg: Predicted in 573.142000 milli-seconds.
+other: 98%	(left_x: 1265   top_y:  367   width:   49   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00871.jpg: Predicted in 569.045000 milli-seconds.
+prohibitory: 99%	(left_x:  381   top_y:  408   width:   27   height:   33)
+prohibitory: 88%	(left_x: 1271   top_y:  381   width:   42   height:   42)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00050.jpg: Predicted in 571.821000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00712.jpg: Predicted in 569.767000 milli-seconds.
+prohibitory: 100%	(left_x:  930   top_y:  358   width:   57   height:   57)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00886.jpg: Predicted in 571.621000 milli-seconds.
+prohibitory: 88%	(left_x:  815   top_y:  542   width:   22   height:   19)
+prohibitory: 99%	(left_x:  818   top_y:  515   width:   22   height:   24)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00030.jpg: Predicted in 570.878000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00088.jpg: Predicted in 572.284000 milli-seconds.
+prohibitory: 99%	(left_x:  415   top_y:  441   width:   23   height:   22)
+prohibitory: 69%	(left_x:  417   top_y:  465   width:   22   height:   21)
+prohibitory: 86%	(left_x:  961   top_y:  441   width:   18   height:   20)
+prohibitory: 91%	(left_x:  962   top_y:  465   width:   17   height:   21)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00278.jpg: Predicted in 569.633000 milli-seconds.
+other: 93%	(left_x:  915   top_y:  356   width:   42   height:   34)
+mandatory: 96%	(left_x:  925   top_y:  392   width:   22   height:   28)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00320.jpg: Predicted in 573.124000 milli-seconds.
+other: 97%	(left_x:  920   top_y:  404   width:   32   height:   32)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00178.jpg: Predicted in 570.718000 milli-seconds.
+prohibitory: 99%	(left_x:  733   top_y:  456   width:   18   height:   19)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00291.jpg: Predicted in 570.736000 milli-seconds.
+prohibitory: 100%	(left_x: 1131   top_y:  386   width:   31   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00521.jpg: Predicted in 569.810000 milli-seconds.
+prohibitory: 94%	(left_x:  383   top_y:  575   width:   21   height:   23)
+prohibitory: 100%	(left_x:  949   top_y:  568   width:   23   height:   25)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00774.jpg: Predicted in 569.830000 milli-seconds.
+prohibitory: 100%	(left_x:  937   top_y:  518   width:   23   height:   27)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00675.jpg: Predicted in 568.755000 milli-seconds.
+mandatory: 96%	(left_x:  644   top_y:  499   width:   31   height:   42)
+other: 99%	(left_x: 1005   top_y:  389   width:   40   height:   32)
+mandatory: 90%	(left_x: 1013   top_y:  419   width:   28   height:   28)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00609.jpg: Predicted in 570.537000 milli-seconds.
+prohibitory: 100%	(left_x:  317   top_y:  516   width:   23   height:   28)
+prohibitory: 100%	(left_x:  814   top_y:  508   width:   26   height:   28)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00683.jpg: Predicted in 569.924000 milli-seconds.
+prohibitory: 52%	(left_x:  396   top_y:  459   width:   14   height:   15)
+prohibitory: 68%	(left_x:  893   top_y:  452   width:   19   height:   21)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00370.jpg: Predicted in 571.516000 milli-seconds.
+prohibitory: 95%	(left_x:  447   top_y:  534   width:   18   height:   18)
+prohibitory: 100%	(left_x:  448   top_y:  556   width:   19   height:   20)
+prohibitory: 100%	(left_x:  885   top_y:  561   width:   21   height:   21)
+prohibitory: 100%	(left_x:  885   top_y:  536   width:   18   height:   21)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00760.jpg: Predicted in 569.444000 milli-seconds.
+prohibitory: 97%	(left_x:  595   top_y:  539   width:   20   height:   23)
+prohibitory: 81%	(left_x:  598   top_y:  564   width:   14   height:   20)
+prohibitory: 52%	(left_x: 1027   top_y:  569   width:   18   height:   18)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00209.jpg: Predicted in 570.020000 milli-seconds.
+other: 62%	(left_x: 1107   top_y:  198   width:   64   height:   92)
+mandatory: 100%	(left_x: 1107   top_y:  289   width:   69   height:   57)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00116.jpg: Predicted in 571.438000 milli-seconds.
+mandatory: 99%	(left_x: 1076   top_y:  253   width:   64   height:   61)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00102.jpg: Predicted in 573.770000 milli-seconds.
+other: 100%	(left_x:  928   top_y:  313   width:   69   height:   54)
+mandatory: 96%	(left_x:  945   top_y:  364   width:   35   height:   60)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00457.jpg: Predicted in 572.197000 milli-seconds.
+prohibitory: 100%	(left_x:  521   top_y:  468   width:   31   height:   34)
+prohibitory: 100%	(left_x: 1241   top_y:  419   width:   60   height:   55)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00151.jpg: Predicted in 574.554000 milli-seconds.
+prohibitory: 99%	(left_x:  796   top_y:  375   width:   27   height:   26)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00012.jpg: Predicted in 575.040000 milli-seconds.
+prohibitory: 100%	(left_x:  975   top_y:  364   width:   61   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00380.jpg: Predicted in 572.452000 milli-seconds.
+prohibitory: 92%	(left_x:  555   top_y:  538   width:   21   height:   22)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00013.jpg: Predicted in 571.060000 milli-seconds.
+prohibitory: 99%	(left_x: 1031   top_y:  285   width:   96   height:   71)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00895.jpg: Predicted in 572.408000 milli-seconds.
+prohibitory: 100%	(left_x:  193   top_y:  481   width:   49   height:   47)
+prohibitory: 100%	(left_x:  966   top_y:  419   width:   50   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00704.jpg: Predicted in 572.080000 milli-seconds.
+prohibitory: 100%	(left_x:  771   top_y:  413   width:   20   height:   24)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00477.jpg: Predicted in 571.237000 milli-seconds.
+prohibitory: 98%	(left_x:  299   top_y:  505   width:   42   height:   41)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00671.jpg: Predicted in 573.259000 milli-seconds.
+danger: 100%	(left_x:  839   top_y:  348   width:   55   height:   46)
+prohibitory: 95%	(left_x:  847   top_y:  394   width:   36   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00376.jpg: Predicted in 573.493000 milli-seconds.
+other: 55%	(left_x:  991   top_y:  510   width:   38   height:   40)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00314.jpg: Predicted in 572.720000 milli-seconds.
+prohibitory: 100%	(left_x:  398   top_y:  453   width:   30   height:   32)
+prohibitory: 83%	(left_x: 1217   top_y:  401   width:   30   height:   32)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00872.jpg: Predicted in 574.053000 milli-seconds.
+prohibitory: 100%	(left_x:  321   top_y:  417   width:   30   height:   34)
+prohibitory: 100%	(left_x:  943   top_y:  408   width:   29   height:   30)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00433.jpg: Predicted in 571.676000 milli-seconds.
+danger: 100%	(left_x:  509   top_y:  527   width:   63   height:   58)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00426.jpg: Predicted in 572.198000 milli-seconds.
+danger: 99%	(left_x: 1068   top_y:  381   width:  131   height:  123)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00087.jpg: Predicted in 573.367000 milli-seconds.
+other: 87%	(left_x:  913   top_y:  435   width:   35   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00042.jpg: Predicted in 573.033000 milli-seconds.
+danger: 81%	(left_x:  923   top_y:  291   width:   66   height:   85)
+other: 49%	(left_x: 1053   top_y:  107   width:  135   height:  161)
+other: 40%	(left_x: 1311   top_y:  372   width:   28   height:   73)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00548.jpg: Predicted in 572.652000 milli-seconds.
+other: 100%	(left_x:  772   top_y:  432   width:   45   height:   32)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00310.jpg: Predicted in 573.524000 milli-seconds.
+other: 90%	(left_x: 1148   top_y:  390   width:   39   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00773.jpg: Predicted in 572.308000 milli-seconds.
+prohibitory: 99%	(left_x:  880   top_y:  514   width:   23   height:   23)
+other: 100%	(left_x: 1043   top_y:  430   width:   54   height:   44)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00052.jpg: Predicted in 574.455000 milli-seconds.
+other: 100%	(left_x:  831   top_y:  280   width:   47   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00138.jpg: Predicted in 572.654000 milli-seconds.
+prohibitory: 100%	(left_x:  165   top_y:  168   width:   69   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00048.jpg: Predicted in 573.437000 milli-seconds.
+mandatory: 96%	(left_x:  341   top_y:  519   width:   41   height:   48)
+other: 85%	(left_x:  771   top_y:  403   width:   54   height:   43)
+mandatory: 98%	(left_x:  779   top_y:  439   width:   32   height:   39)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00663.jpg: Predicted in 572.102000 milli-seconds.
+other: 96%	(left_x:  830   top_y:  307   width:   70   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00868.jpg: Predicted in 573.142000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00637.jpg: Predicted in 572.167000 milli-seconds.
+danger: 100%	(left_x:  868   top_y:  399   width:   48   height:   49)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00362.jpg: Predicted in 574.370000 milli-seconds.
+danger: 87%	(left_x:  260   top_y:  458   width:  102   height:  115)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00046.jpg: Predicted in 573.732000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00250.jpg: Predicted in 573.063000 milli-seconds.
+mandatory: 100%	(left_x:  104   top_y:  424   width:   63   height:   71)
+prohibitory: 100%	(left_x:  912   top_y:  447   width:   17   height:   22)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00514.jpg: Predicted in 573.423000 milli-seconds.
+prohibitory: 36%	(left_x:  390   top_y:  516   width:   23   height:   26)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00065.jpg: Predicted in 571.141000 milli-seconds.
+prohibitory: 100%	(left_x:  970   top_y:  376   width:   53   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00536.jpg: Predicted in 569.801000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00551.jpg: Predicted in 573.462000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00095.jpg: Predicted in 572.393000 milli-seconds.
+danger: 95%	(left_x:  697   top_y:  438   width:   30   height:   23)
+prohibitory: 99%	(left_x:  704   top_y:  462   width:   17   height:   19)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00368.jpg: Predicted in 572.982000 milli-seconds.
+prohibitory: 100%	(left_x:  379   top_y:  510   width:   56   height:   50)
+prohibitory: 100%	(left_x:  382   top_y:  461   width:   52   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00602.jpg: Predicted in 571.555000 milli-seconds.
+prohibitory: 100%	(left_x:  446   top_y:  545   width:   31   height:   29)
+prohibitory: 84%	(left_x: 1270   top_y:  557   width:   29   height:   27)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00494.jpg: Predicted in 574.185000 milli-seconds.
+prohibitory: 100%	(left_x: 1118   top_y:  302   width:   88   height:   90)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00303.jpg: Predicted in 572.003000 milli-seconds.
+prohibitory: 81%	(left_x: 1188   top_y:  386   width:   23   height:   27)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00049.jpg: Predicted in 574.211000 milli-seconds.
+other: 99%	(left_x:  984   top_y:  353   width:   51   height:   49)
+mandatory: 85%	(left_x:  995   top_y:  393   width:   27   height:   37)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00427.jpg: Predicted in 571.437000 milli-seconds.
+prohibitory: 100%	(left_x:  301   top_y:  376   width:   87   height:  107)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00053.jpg: Predicted in 571.956000 milli-seconds.
+mandatory: 99%	(left_x:  766   top_y:  439   width:   34   height:   35)
+prohibitory: 95%	(left_x: 1152   top_y:  333   width:   47   height:   37)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00740.jpg: Predicted in 571.913000 milli-seconds.
+prohibitory: 100%	(left_x:  488   top_y:  511   width:   49   height:   48)
+prohibitory: 100%	(left_x: 1163   top_y:  509   width:   52   height:   51)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00063.jpg: Predicted in 574.629000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00153.jpg: Predicted in 571.851000 milli-seconds.
+mandatory: 100%	(left_x:  310   top_y:  405   width:   31   height:   40)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00593.jpg: Predicted in 574.711000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00121.jpg: Predicted in 573.076000 milli-seconds.
+prohibitory: 100%	(left_x:  107   top_y:  312   width:   77   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00654.jpg: Predicted in 572.736000 milli-seconds.
+other: 100%	(left_x: 1234   top_y:  298   width:   66   height:   64)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00869.jpg: Predicted in 573.799000 milli-seconds.
+danger: 100%	(left_x:   58   top_y:  402   width:   77   height:   75)
+danger: 75%	(left_x: 1232   top_y:  315   width:   66   height:   75)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00670.jpg: Predicted in 571.998000 milli-seconds.
+prohibitory: 100%	(left_x:  992   top_y:  308   width:   76   height:   61)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00801.jpg: Predicted in 570.682000 milli-seconds.
+mandatory: 86%	(left_x:  507   top_y:  445   width:   26   height:   36)
+prohibitory: 26%	(left_x:  767   top_y:  420   width:   19   height:   18)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00794.jpg: Predicted in 572.281000 milli-seconds.
+other: 94%	(left_x: 1026   top_y:  515   width:   36   height:   34)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00468.jpg: Predicted in 571.179000 milli-seconds.
+prohibitory: 100%	(left_x: 1130   top_y:  508   width:   31   height:   34)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00641.jpg: Predicted in 572.909000 milli-seconds.
+other: 97%	(left_x:   26   top_y:  421   width:   46   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00007.jpg: Predicted in 572.792000 milli-seconds.
+prohibitory: 99%	(left_x:  827   top_y:  411   width:   35   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00851.jpg: Predicted in 572.597000 milli-seconds.
+prohibitory: 100%	(left_x: 1090   top_y:  311   width:   58   height:   56)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00271.jpg: Predicted in 570.272000 milli-seconds.
+prohibitory: 97%	(left_x:  262   top_y:  370   width:   32   height:   36)
+prohibitory: 99%	(left_x: 1088   top_y:  340   width:   45   height:   41)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00806.jpg: Predicted in 572.514000 milli-seconds.
+prohibitory: 96%	(left_x:  813   top_y:  409   width:   21   height:   20)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00284.jpg: Predicted in 571.275000 milli-seconds.
+other: 55%	(left_x:  977   top_y:  282   width:   81   height:   61)
+prohibitory: 100%	(left_x:  989   top_y:  348   width:   65   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00531.jpg: Predicted in 572.859000 milli-seconds.
+prohibitory: 95%	(left_x:  487   top_y:  443   width:   17   height:   20)
+prohibitory: 94%	(left_x:  912   top_y:  432   width:   18   height:   21)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00758.jpg: Predicted in 574.727000 milli-seconds.
+prohibitory: 100%	(left_x:  377   top_y:  518   width:   27   height:   32)
+prohibitory: 83%	(left_x:  379   top_y:  545   width:   28   height:   34)
+prohibitory: 99%	(left_x:  985   top_y:  522   width:   28   height:   29)
+prohibitory: 97%	(left_x:  989   top_y:  553   width:   26   height:   31)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00093.jpg: Predicted in 573.974000 milli-seconds.
+prohibitory: 100%	(left_x:  347   top_y:  399   width:   30   height:   35)
+prohibitory: 100%	(left_x: 1073   top_y:  342   width:   48   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00295.jpg: Predicted in 571.739000 milli-seconds.
+other: 91%	(left_x:  102   top_y:  418   width:   44   height:   44)
+other: 99%	(left_x: 1225   top_y:  363   width:   48   height:   51)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00305.jpg: Predicted in 572.574000 milli-seconds.
+danger: 97%	(left_x:  548   top_y:  350   width:   48   height:   45)
+danger: 100%	(left_x:  759   top_y:  366   width:   70   height:   62)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00455.jpg: Predicted in 572.864000 milli-seconds.
+danger: 95%	(left_x: 1089   top_y:  357   width:   82   height:   90)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00716.jpg: Predicted in 572.586000 milli-seconds.
+other: 100%	(left_x:  812   top_y:  264   width:   73   height:   69)
+prohibitory: 100%	(left_x:  820   top_y:  336   width:   51   height:   49)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00844.jpg: Predicted in 572.042000 milli-seconds.
+other: 73%	(left_x:  977   top_y:  327   width:   36   height:   37)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00312.jpg: Predicted in 574.103000 milli-seconds.
+prohibitory: 100%	(left_x:  129   top_y:  270   width:   86   height:  113)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00789.jpg: Predicted in 573.058000 milli-seconds.
+other: 99%	(left_x:  762   top_y:  518   width:   29   height:   26)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00114.jpg: Predicted in 574.340000 milli-seconds.
+prohibitory: 100%	(left_x: 1167   top_y:  423   width:   65   height:   61)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00025.jpg: Predicted in 573.004000 milli-seconds.
+other: 95%	(left_x:  146   top_y:  353   width:   45   height:   58)
+other: 74%	(left_x:  730   top_y:  418   width:   44   height:   49)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00858.jpg: Predicted in 573.902000 milli-seconds.
+danger: 89%	(left_x:  813   top_y:  434   width:   30   height:   23)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00392.jpg: Predicted in 575.255000 milli-seconds.
+prohibitory: 97%	(left_x:  359   top_y:  446   width:   64   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00715.jpg: Predicted in 573.148000 milli-seconds.
+mandatory: 100%	(left_x:  287   top_y:  344   width:   62   height:   66)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00575.jpg: Predicted in 573.816000 milli-seconds.
+mandatory: 95%	(left_x:  403   top_y:  469   width:   33   height:   42)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00414.jpg: Predicted in 573.800000 milli-seconds.
+prohibitory: 99%	(left_x: 1032   top_y:  421   width:   52   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00373.jpg: Predicted in 573.217000 milli-seconds.
+prohibitory: 100%	(left_x:  167   top_y:  519   width:   28   height:   30)
+prohibitory: 100%	(left_x:  821   top_y:  512   width:   28   height:   34)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00150.jpg: Predicted in 575.881000 milli-seconds.
+prohibitory: 100%	(left_x:  821   top_y:  347   width:   48   height:   38)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00405.jpg: Predicted in 574.256000 milli-seconds.
+prohibitory: 100%	(left_x:  356   top_y:  445   width:   60   height:   54)
+other: 99%	(left_x: 1248   top_y:  401   width:   72   height:   68)
+prohibitory: 96%	(left_x: 1253   top_y:  469   width:   54   height:   57)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/: Predicted in 577.396000 milli-seconds.
+Enter Image Path: 

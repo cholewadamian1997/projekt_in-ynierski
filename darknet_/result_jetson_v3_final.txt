@@ -1,0 +1,446 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 80 K-images (1 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00371.jpg: Predicted in 3394.435000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00233.jpg: Predicted in 572.622000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00032.jpg: Predicted in 573.513000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00756.jpg: Predicted in 570.815000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00776.jpg: Predicted in 569.457000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00855.jpg: Predicted in 570.789000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00149.jpg: Predicted in 569.960000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00725.jpg: Predicted in 570.964000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00613.jpg: Predicted in 568.897000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00068.jpg: Predicted in 570.000000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00224.jpg: Predicted in 569.613000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00315.jpg: Predicted in 571.263000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00871.jpg: Predicted in 570.526000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00050.jpg: Predicted in 570.031000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00712.jpg: Predicted in 571.235000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00886.jpg: Predicted in 570.212000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00030.jpg: Predicted in 571.023000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00088.jpg: Predicted in 570.715000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00278.jpg: Predicted in 569.499000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00320.jpg: Predicted in 571.374000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00178.jpg: Predicted in 570.515000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00291.jpg: Predicted in 569.630000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00521.jpg: Predicted in 572.264000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00774.jpg: Predicted in 570.247000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00675.jpg: Predicted in 569.110000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00609.jpg: Predicted in 570.548000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00683.jpg: Predicted in 568.818000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00370.jpg: Predicted in 569.951000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00760.jpg: Predicted in 569.132000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00209.jpg: Predicted in 571.014000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00116.jpg: Predicted in 569.428000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00102.jpg: Predicted in 573.555000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00457.jpg: Predicted in 569.517000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00151.jpg: Predicted in 568.855000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00012.jpg: Predicted in 569.862000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00380.jpg: Predicted in 571.748000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00013.jpg: Predicted in 569.240000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00895.jpg: Predicted in 570.533000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00704.jpg: Predicted in 570.656000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00477.jpg: Predicted in 571.018000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00671.jpg: Predicted in 570.576000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00376.jpg: Predicted in 569.512000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00314.jpg: Predicted in 569.475000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00872.jpg: Predicted in 570.679000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00433.jpg: Predicted in 569.039000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00426.jpg: Predicted in 570.105000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00087.jpg: Predicted in 573.270000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00042.jpg: Predicted in 570.015000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00548.jpg: Predicted in 568.397000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00310.jpg: Predicted in 571.007000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00773.jpg: Predicted in 569.192000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00052.jpg: Predicted in 571.190000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00138.jpg: Predicted in 572.172000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00048.jpg: Predicted in 570.655000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00663.jpg: Predicted in 570.276000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00868.jpg: Predicted in 571.791000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00637.jpg: Predicted in 571.118000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00362.jpg: Predicted in 569.406000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00046.jpg: Predicted in 570.680000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00250.jpg: Predicted in 570.761000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00514.jpg: Predicted in 569.993000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00065.jpg: Predicted in 572.009000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00536.jpg: Predicted in 570.933000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00551.jpg: Predicted in 571.938000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00095.jpg: Predicted in 569.355000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00368.jpg: Predicted in 568.990000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00602.jpg: Predicted in 571.444000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00494.jpg: Predicted in 572.052000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00303.jpg: Predicted in 568.422000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00049.jpg: Predicted in 575.798000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00427.jpg: Predicted in 578.429000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00053.jpg: Predicted in 570.645000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00740.jpg: Predicted in 586.734000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00063.jpg: Predicted in 588.278000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00153.jpg: Predicted in 598.527000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00593.jpg: Predicted in 580.553000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00121.jpg: Predicted in 590.235000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00654.jpg: Predicted in 577.020000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00869.jpg: Predicted in 577.559000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00670.jpg: Predicted in 588.361000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00801.jpg: Predicted in 598.636000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00794.jpg: Predicted in 571.354000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00468.jpg: Predicted in 591.866000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00641.jpg: Predicted in 590.134000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00007.jpg: Predicted in 570.505000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00851.jpg: Predicted in 571.811000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00271.jpg: Predicted in 609.723000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00806.jpg: Predicted in 578.633000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00284.jpg: Predicted in 578.459000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00531.jpg: Predicted in 598.461000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00758.jpg: Predicted in 575.147000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00093.jpg: Predicted in 572.586000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00295.jpg: Predicted in 573.038000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00305.jpg: Predicted in 573.177000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00455.jpg: Predicted in 572.374000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00716.jpg: Predicted in 571.712000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00844.jpg: Predicted in 571.410000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00312.jpg: Predicted in 571.820000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00789.jpg: Predicted in 572.476000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00114.jpg: Predicted in 574.480000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00025.jpg: Predicted in 571.979000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00858.jpg: Predicted in 570.664000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00392.jpg: Predicted in 572.184000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00715.jpg: Predicted in 571.936000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00575.jpg: Predicted in 569.671000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00414.jpg: Predicted in 573.690000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00373.jpg: Predicted in 571.192000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00150.jpg: Predicted in 572.939000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/ts/00405.jpg: Predicted in 571.597000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/damian/: Predicted in 574.595000 milli-seconds.
+Enter Image Path: 
